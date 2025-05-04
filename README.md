@@ -1,1 +1,3 @@
 # Breast-Cancer-Diagnosis-using-Logistic-Regression
+
+This project is a binary classification task aimed at predicting whether a tumor is malignant or benign using the Breast Cancer Wisconsin dataset. The model is built using Logistic Regression and implemented in Python with the help of libraries like Scikit-learn, Pandas, and Matplotlib. The project includes essential preprocessing steps such as feature scaling and train-test splitting, followed by model training and evaluation using metrics like confusion matrix, precision, recall, F1-score, and ROC-AUC curve. Threshold tuning and sigmoid function visualization were also explored to deepen understanding. 
